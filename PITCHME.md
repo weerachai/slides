@@ -1,15 +1,21 @@
-# ทดสอบ
+### ทดสอบ
 
-An application architecture for React
+ความน่าจะเป็นที่เราจะเติบโต
 
 ---
 
-### Flux Design
+### สิ่งที่ต้องทำ
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- อาบน้ำจากัวร์
+- พาลอเร้นท์ไปหาหมอ
+- เล่นกับเจสซี่
 
 ---
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+
+---
+
+####หน้านี้เป็นโจทย์
+
+$x^2 + 5\sqrt{3}$
