@@ -1,1 +1,4 @@
-mathjax : TeX-MML-AM_HTMLorMML-full
+charts : true
+mathjax : TeX-AMS_HTML-full
+
+footnote : "รศ.ดร.วีรชัย อโณทัยไพบูลย์" 
